@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="text">See Me Blinking !</string>
+    <string name="label">Blinking Effect on TextView</string>
+    <string name="lab">Hit the button below to see the blinking effect</string>
+    <string name="but">Click me to blink the TextView</string>
+</resources>
